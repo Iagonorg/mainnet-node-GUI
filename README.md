@@ -4,7 +4,7 @@ Iagon Storage Node is a cross-platform desktop application which allows users to
 # Introduction
 Welcome to the installation guide for Iagon Storage Node, a desktop application that empowers users to securely store files with ease. This document provides step-by-step instructions to help you install and set up Iagon Storage Node on your Windows, Linux, or macOS system.
 
-# Downloading the Installation Package
+# Download the Installation Package
  Visit https://github.com/Iagonorg/mainnet-node-GUI/releases to download the installation package for your operating system.
 
 # Installation Steps
