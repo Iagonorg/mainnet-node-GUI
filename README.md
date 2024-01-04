@@ -18,7 +18,7 @@ Welcome to the installation guide for Iagon Storage Node, a desktop application 
 - Open a terminal window.
 - Navigate to the directory where the installation package is located.
 - Enter the following command to make it executable
-    - for eg: chmod +rwx ./ Iagon-Storage-Node_1.0.0 
+    - for eg: chmod +rwx ./ Iagon-Storage-Node_1.0.1 
 - Double-click on it to run it.
 - Follow the on-screen instructions to complete the installation process.
 - Once the installation is complete, Iagon Storage Node is ready to use.
