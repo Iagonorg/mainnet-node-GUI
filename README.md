@@ -5,7 +5,7 @@ Iagon Storage Node is a cross-platform desktop application which allows users to
 Welcome to the installation guide for Iagon Storage Node, a desktop application that empowers users to securely store files with ease. This document provides step-by-step instructions to help you install and set up Iagon Storage Node on your Windows, Linux, or macOS system.
 
 # Download the Installation Package
- Visit https://github.com/Iagonorg/mainnet-node-GUI/releases to download the installation package for your operating system.
+ Visit https://github.com/Iagonorg/mainnet-node-GUI/releases/latest to download the installation package for your operating system.
 
 # Installation Steps
 # Windows
@@ -51,5 +51,8 @@ Upon completion of the desktop application installation, users are required to r
 Following the aforementioned steps, the setup process concludes, and users will be automatically redirected to the dashboard. 
 
 Within the dashboard, a "Regenerate Key" button is available to generate an authorization key, crucial for registering a node in the provider dashboard. It is important to note that this key can be generated only once. Upon successful registration of a node in the provider dashboard, users will observe the "Verified" text confirming the completion of the registration process.
+
+# Steps to migrate to higher version
+Restart you node desktop application. If new version has been released, system will automatically upgrade to latest version.
 
 
