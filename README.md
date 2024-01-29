@@ -1,5 +1,5 @@
 # Iagon Storage Node GUI
-Iagon Storage Node is a cross-platform desktop application which allows users to share their storage on the Iagon network to earn extra money.
+Iagon Storage Node is a cross-platform desktop application which allows users to share their storage on the Iagon network to earn rewards.
 
 # Introduction
 Welcome to the installation guide for Iagon Storage Node, a desktop application that empowers users to securely store files with ease. This document provides step-by-step instructions to help you install and set up Iagon Storage Node on your Windows, Linux, or macOS system.
